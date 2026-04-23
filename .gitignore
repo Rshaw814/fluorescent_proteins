@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.npy
+*.csv
+*.zip
+*.out
+saved_models/
+checkpoints/
+archives/
+agent/
+slurm-*.out
+
